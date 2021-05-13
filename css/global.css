@@ -1,0 +1,85 @@
+/* Text */
+
+.text-center {
+    text-align: center;
+}
+
+.dark-grey {
+    background: #3b444b;
+}
+.heading-small{
+    font-size: 1.20rem;
+}
+.heading-medium {
+    font-size: 1.50;
+}
+
+.heading-big {
+    font-size: 1.75rem;
+}
+
+/* Container */
+
+.container { 
+    max-width: 1100px;
+    margin: 0 auto; 
+}
+
+/* Button */
+
+.btn {
+    margin-top: 1.25rem;
+    padding: 0.8rem 3rem;
+    border-radius: 7px;
+    letter-spacing: 0.5px;
+}
+
+.btn-second {
+    margin-top: 1.25rem;
+    padding: 0.7rem 3rem;
+    border-radius: 7px;
+    letter-spacing: 0.5px;
+    background: #3b444b;
+    color: #fff;
+}
+
+.btn-second:hover {
+    color: #455a64;
+    background: #fff;
+    border: 1.28px solid #455a64
+}
+
+.btn-block {
+    width: 100%;
+    text-align: center;
+    font-size: 1.25rem;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+
+/* Forms */
+
+.form-group {
+    padding: 0.25rem 0;
+}
+.form-group label {
+    display: block; /*ne işe yaradığına dikkat et */
+}
+.form-control {
+    width: 100%;
+    padding: 0.4rem;
+    border-radius: 6px;
+    font-size: 1rem;
+    resize: none;
+}
+
+
+
+
+
+
+
+
